@@ -3,7 +3,7 @@ const {app, BrowserWindow} = require('electron')
 const path = require('path')
 
 require('update-electron-app')({
-  repo: 'https://github.com/xiangqingyi/electron-update-app-demo',
+  repo: 'https://github.com/xiangqingyi/electron-update-demo',
   updateInterval: '1 hour',
   logger: require('electron-log')
 })
