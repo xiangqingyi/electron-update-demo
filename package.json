@@ -11,7 +11,7 @@
     },
     "win": {
       "target": ["nsis", "zip"],
-      "icon": "windowicon.ico"
+      "icon": "256.ico"
     },
     "directories": {
       "output": "out"
